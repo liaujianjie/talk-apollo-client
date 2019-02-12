@@ -1,0 +1,19 @@
+.LoginPanel {
+  margin-bottom: 1em;
+
+  height: 100%;
+  margin: 0px auto;
+  width: 360px;
+}
+
+.LoginPanel--content-container {
+  padding: 1em 1.5em;
+}
+
+.LoginPanel--title {
+  margin-top: 0px;
+}
+
+.LoginPanel--button-container > * {
+  margin-right: 0.5em;
+}

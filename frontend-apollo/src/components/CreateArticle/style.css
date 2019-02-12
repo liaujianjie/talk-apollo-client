@@ -1,0 +1,15 @@
+.CreateArticle {
+  margin-bottom: 1em;
+}
+
+.CreateArticle--content-container {
+  padding: 1em 1.5em;
+}
+
+.CreateArticle--title {
+  margin-top: 0px;
+}
+
+.CreateArticle--button-container > * {
+  margin-right: 0.5em;
+}

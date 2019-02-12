@@ -1,0 +1,14 @@
+body {
+  background: #f5f8fa;
+}
+
+.App {
+  max-width: 720px;
+  margin: 48px auto;
+  padding: 0px 24px;
+}
+
+/* Disable yucky outline when buttons are clicked */
+.bp3-button {
+  outline-style: none !important;
+}

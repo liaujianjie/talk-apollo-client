@@ -1,0 +1,15 @@
+.Article {
+  margin-bottom: 1em;
+}
+
+.Article--content-container {
+  padding: 1em 1.5em;
+}
+
+.Article--content-container > *:first-child {
+  margin-top: 0px;
+}
+
+.Article--content-container > *:last-child {
+  margin-bottom: 0px;
+}
